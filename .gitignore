@@ -1,0 +1,6 @@
+build/CurrentBuild/debug/
+Foundation/DiagnosticsQuickStart.Business/bin/
+Foundation/DiagnosticsQuickStart.Business/obj/
+Projects/.vs/DiagnosticsCoreConsole/v15/
+Projects/DiagnosticsCoreConsole/bin/
+Projects/DiagnosticsCoreConsole/obj/
