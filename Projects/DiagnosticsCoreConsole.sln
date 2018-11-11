@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticsCoreConsole", "DiagnosticsCoreConsole\DiagnosticsCoreConsole.csproj", "{F763AD8B-4266-4F80-86BC-6BEA61DA4235}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{31CEFE8A-B2FA-471F-96CE-65B60014152D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{901CD397-54E0-4088-859F-1FE20C3BDB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticsQuickStart.Business", "..\Foundation\DiagnosticsQuickStart.Business\DiagnosticsQuickStart.Business.csproj", "{7D94477D-FE4A-462D-B4BB-6590C1114C0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{C0195764-156A-4824-9AA4-C4302809A4D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F763AD8B-4266-4F80-86BC-6BEA61DA4235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F763AD8B-4266-4F80-86BC-6BEA61DA4235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F763AD8B-4266-4F80-86BC-6BEA61DA4235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F763AD8B-4266-4F80-86BC-6BEA61DA4235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D94477D-FE4A-462D-B4BB-6590C1114C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D94477D-FE4A-462D-B4BB-6590C1114C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D94477D-FE4A-462D-B4BB-6590C1114C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D94477D-FE4A-462D-B4BB-6590C1114C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F763AD8B-4266-4F80-86BC-6BEA61DA4235} = {31CEFE8A-B2FA-471F-96CE-65B60014152D}
+		{7D94477D-FE4A-462D-B4BB-6590C1114C0E} = {901CD397-54E0-4088-859F-1FE20C3BDB89}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F7E463-A2E0-4E05-AE36-825D1E0EE6EA}
+	EndGlobalSection
+EndGlobal
