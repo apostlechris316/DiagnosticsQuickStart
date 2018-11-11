@@ -1,0 +1,25 @@
+# DiagnosticsQuickStart
+This library provides a basic interface to facilitate logging diagnostics to different destinations.
+
+LICENSE: Free to use provided details on fixes and/or extensions emailed to chris.williams@readwatchcreate.com
+
+References:
+
+* If you are using DiagnosticsQuickStart.Sitecore then you will need to reference the Sitecore.Kernel which is NOT part of this repository.
+
+Libraries: 
+
+* This project contains 3 C# projects:
+
+	1) DiagnosticsQuickStart 
+		- This is a .NET Standard library so able to be used in .NET Framework, .NET Core and Xamarin.
+		- This project contains the base classes and interfaces for logging diagnostics. 
+		- Additionally it provides support for logging to the file system or console app window.
+	2) DiagnosticsQuickStart.Sitecore 
+		- This project extends CSHARP.Diagnostics to provide support for logging to the Sitecore Log.
+
+Obsolete libraries: 
+
+Version History:
+
+	v1.0.0.0 - This is the initial release of the library

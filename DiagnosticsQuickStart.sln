@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticsCoreConsole", "DiagnosticsCoreConsole\DiagnosticsCoreConsole.csproj", "{F763AD8B-4266-4F80-86BC-6BEA61DA4235}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagnosticsCoreConsole", "Projects\DiagnosticsCoreConsole\DiagnosticsCoreConsole.csproj", "{F763AD8B-4266-4F80-86BC-6BEA61DA4235}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{31CEFE8A-B2FA-471F-96CE-65B60014152D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{901CD397-54E0-4088-859F-1FE20C3BDB89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticsQuickStart.Business", "..\Foundation\DiagnosticsQuickStart.Business\DiagnosticsQuickStart.Business.csproj", "{7D94477D-FE4A-462D-B4BB-6590C1114C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagnosticsQuickStart.Business", "Foundation\DiagnosticsQuickStart.Business\DiagnosticsQuickStart.Business.csproj", "{7D94477D-FE4A-462D-B4BB-6590C1114C0E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{C0195764-156A-4824-9AA4-C4302809A4D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{3788826C-10DB-41F6-839C-E5C41B218812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

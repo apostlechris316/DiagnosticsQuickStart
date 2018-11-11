@@ -1,0 +1,10 @@
+Date Completed,Version,Library,Feature,Task
+2018-Nov-11,1.0.0.0,DiagnosticsQuickStart,MemoryEventLog,Allow for storing log in memory.
+PENDING,1.0.0.0,DiagnosticsQuickStart,ConsoleEventLog,Allow for writing log to console window
+PENDING,1.0.0.0,DiagnosticsQuickStart.Sitecore,SitecoreEventLog,Allow for writing log to Sitecore Log
+PENDING,1.0.0.0,TestDiagnosticsQuickStart,General Unit Tests,Basic Smoketest of Diagnostics QuickStart
+PENDING,1.0.0.0,TestDiagnosticsQuickStart,Test MemoryEventLog,Basic Smoketest of MemoryEventLog
+PENDING,1.0.0.0,TestDiagnosticsQuickStart,Test ConsoleEventLog,Basic Smoketest of ConsoleEventLog
+,,,,
+,,,,
+,,,,
