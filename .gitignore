@@ -4,3 +4,6 @@ Foundation/DiagnosticsQuickStart.Business/obj/
 Projects/.vs/DiagnosticsCoreConsole/v15/
 Projects/DiagnosticsCoreConsole/bin/
 Projects/DiagnosticsCoreConsole/obj/
+.vs/
+Foundation/DiagnosticsQuickStart.Provider.Speaking/bin/
+Foundation/DiagnosticsQuickStart.Provider.Speaking/obj/
