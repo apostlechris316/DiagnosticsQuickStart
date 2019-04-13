@@ -1,0 +1,11 @@
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.dll
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.pdb
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.csprojResolveAssemblyReference.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.csproj.CoreCompileInputs.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.AssemblyInfoInputs.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.AssemblyInfo.cs
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.deps.json
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.dll
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.pdb
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.dll
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.pdb
