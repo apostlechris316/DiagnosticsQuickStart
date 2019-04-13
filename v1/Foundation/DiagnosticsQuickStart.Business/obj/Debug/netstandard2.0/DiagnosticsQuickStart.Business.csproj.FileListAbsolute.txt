@@ -1,0 +1,9 @@
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.csprojResolveAssemblyReference.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.csproj.CoreCompileInputs.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.AssemblyInfoInputs.cache
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.AssemblyInfo.cs
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.deps.json
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.dll
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.pdb
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.dll
+C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\obj\Debug\netstandard2.0\DiagnosticsQuickStart.Business.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DiagnosticsQuickStart.Business</id>
+    <version>1.0.0</version>
+    <authors>Chris Williams</authors>
+    <owners>Chris Williams</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library provides the Diagnostics Business Logic and basic Diagnostics providers like Console, FileSystem, Memory.</description>
+    <releaseNotes>Consider this a QuickStart that you can extend for your purposes.</releaseNotes>
+    <copyright>(c) 2001 - 2018 Read Watch Create</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Business\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Business.dll" target="lib\netstandard2.0\DiagnosticsQuickStart.Business.dll" />
+  </files>
+</package>

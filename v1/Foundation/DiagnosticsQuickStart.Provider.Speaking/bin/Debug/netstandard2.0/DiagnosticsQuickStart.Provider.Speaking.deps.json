@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "745e5d70433f00592adda7e74a61a1f476a3dc1f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DiagnosticsQuickStart.Provider.Speaking/0.0.0.1": {
+        "dependencies": {
+          "DiagnosticsQuickStart.Business": "1.0.0",
+          "NETStandard.Library": "2.0.1",
+          "TextToSpeechQuickStart.Business": "0.0.0.1"
+        },
+        "runtime": {
+          "DiagnosticsQuickStart.Provider.Speaking.dll": {}
+        }
+      },
+      "CSHARPStandard.NET.Http/2.0.0.10": {
+        "dependencies": {
+          "CSHARPStandard.Text": "2.0.0.18"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CSHARPStandard.NET.Http.dll": {}
+        }
+      },
+      "CSHARPStandard.Text/2.0.0.18": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.0/CSHARPStandard.Text.dll": {}
+        }
+      },
+      "JsonQuickStart/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/JsonQuickStart.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "StandardDataStructureQuickStart.Data/1.0.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/StandardDataStructureQuickStart.Data.dll": {}
+        }
+      },
+      "TextToSpeechQuickStart.Business/0.0.0.1": {
+        "dependencies": {
+          "CSHARPStandard.NET.Http": "2.0.0.10",
+          "CSHARPStandard.Text": "2.0.0.18",
+          "TraitsQuickStart.Business": "1.0.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/TextToSpeechQuickStart.Business.dll": {}
+        }
+      },
+      "TraitsQuickStart.Business/1.0.0.3": {
+        "dependencies": {
+          "DiagnosticsQuickStart.Business": "1.0.0",
+          "JsonQuickStart": "1.0.0",
+          "StandardDataStructureQuickStart.Data": "1.0.0.3",
+          "TraitsQuickStart.Data": "1.0.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/TraitsQuickStart.Business.dll": {}
+        }
+      },
+      "TraitsQuickStart.Data/1.0.0.2": {
+        "dependencies": {
+          "DiagnosticsQuickStart.Business": "1.0.0",
+          "StandardDataStructureQuickStart.Data": "1.0.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/TraitsQuickStart.Data.dll": {}
+        }
+      },
+      "DiagnosticsQuickStart.Business/1.0.0": {
+        "runtime": {
+          "DiagnosticsQuickStart.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiagnosticsQuickStart.Provider.Speaking/0.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSHARPStandard.NET.Http/2.0.0.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pEbGhfepk64XVFGfZBLYCNGO/SX2QeV6hwg4/+Z2BNx04lQharz7Kea/HJKFBgE0A75KVTteFqzrZjSk/j6Bkw==",
+      "path": "csharpstandard.net.http/2.0.0.10",
+      "hashPath": "csharpstandard.net.http.2.0.0.10.nupkg.sha512"
+    },
+    "CSHARPStandard.Text/2.0.0.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xd2iMR2cpa35EWy90Bf0mxawPt0Af6QEBm6TpjR0a5G1uf+DjMSHHS+E2rsXNBRGFg7hAFXU7wKJPNifc/mE6A==",
+      "path": "csharpstandard.text/2.0.0.18",
+      "hashPath": "csharpstandard.text.2.0.0.18.nupkg.sha512"
+    },
+    "JsonQuickStart/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dCjt+TdvoH3D6zEfoCjP85lPgGW7exLLE2sCI187/tUJ8TGp0ySSPZNdGev1qLjhiWIxbVH1WiRvuPSJB+5rmw==",
+      "path": "jsonquickstart/1.0.0",
+      "hashPath": "jsonquickstart.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "StandardDataStructureQuickStart.Data/1.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ua3hxYj4pfjK8SxHrsYm7fdTraTsiR2wsVD5CydOeDf7rdYvPUnyrvjWw1bptMV6gQZG9HratHPyqt0S6Ch3sg==",
+      "path": "standarddatastructurequickstart.data/1.0.0.3",
+      "hashPath": "standarddatastructurequickstart.data.1.0.0.3.nupkg.sha512"
+    },
+    "TextToSpeechQuickStart.Business/0.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sMcOwfVB8jvN9N2u7FTI1X1pmhxOupvt3yOdDYzXiB/XVXeh1XsR74ZY2x1dmuYEPsphumzcRk3AiftfydNqkA==",
+      "path": "texttospeechquickstart.business/0.0.0.1",
+      "hashPath": "texttospeechquickstart.business.0.0.0.1.nupkg.sha512"
+    },
+    "TraitsQuickStart.Business/1.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-70CIgc/7fZBs3kjHtNJc4bmH0L+MXXZD6Sofrer+X4zVUrvFiqPLHad7w6LVk2XDk92gd4ZPEzk+iEI6yqFJWw==",
+      "path": "traitsquickstart.business/1.0.0.3",
+      "hashPath": "traitsquickstart.business.1.0.0.3.nupkg.sha512"
+    },
+    "TraitsQuickStart.Data/1.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tecVL51LvNsr0q3q3T6k7FPcBxObhNFHFiR2NYsRzMbVRxC0D90K9RBWZoMlGa9AbEh5UrNResIXuCqeoJWcjQ==",
+      "path": "traitsquickstart.data/1.0.0.2",
+      "hashPath": "traitsquickstart.data.1.0.0.2.nupkg.sha512"
+    },
+    "DiagnosticsQuickStart.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.csprojResolveAssemblyReference.cache
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.csproj.CoreCompileInputs.cache
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.AssemblyInfoInputs.cache
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.AssemblyInfo.cs
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsCoreConsole.deps.json
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsCoreConsole.runtimeconfig.json
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsCoreConsole.runtimeconfig.dev.json
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsCoreConsole.dll
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsCoreConsole.pdb
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsQuickStart.Business.dll
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\bin\Debug\netcoreapp2.0\DiagnosticsQuickStart.Business.pdb
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.dll
+C:\_git\DiagnosticsQuickStart\Projects\DiagnosticsCoreConsole\obj\Debug\netcoreapp2.0\DiagnosticsCoreConsole.pdb

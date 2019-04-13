@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DiagnosticsQuickStart.Provider.Speaking</id>
+    <version>0.0.0.1</version>
+    <authors>Chris Williams</authors>
+    <owners>Chris Williams</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This library speaks the diagnostics messages</description>
+    <releaseNotes>This library is a QuickStart and may not be production ready code.</releaseNotes>
+    <copyright>(c) 2018 Read Watch Create</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="DiagnosticsQuickStart.Business" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="TextToSpeechQuickStart.Business" version="0.0.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\_git\DiagnosticsQuickStart\Foundation\DiagnosticsQuickStart.Provider.Speaking\bin\Debug\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.dll" target="lib\netstandard2.0\DiagnosticsQuickStart.Provider.Speaking.dll" />
+  </files>
+</package>
